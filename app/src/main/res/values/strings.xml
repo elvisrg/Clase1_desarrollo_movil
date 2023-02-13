@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Clase1</string>
+    <string name="Titulo">Formulario</string>
+    <string name="Nombre">Name</string>
+    <string name="Apellido">LsName</string>
+    <string name="Cedula">CC</string>
+</resources>
